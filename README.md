@@ -10,6 +10,14 @@ Depends on the _@nostr-tools_ package.
 npm i nodestr
 ```
 
+## Implementation Roadmap
+
+- [x] signEvent
+- [x] getPublicKey
+- [ ] encrypt
+- [ ] decrypt
+- [ ] NIP46 Support
+
 ## Usage
 
 ```js
