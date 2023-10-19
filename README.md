@@ -7,13 +7,13 @@ Depends on the _@nostr-tools_ package.
 ## Installation
 
 ```
-npm i nip07-node
+npm i nodestr
 ```
 
 ## Usage
 
 ```js
-const { Nip07Provider } = require("nip07-node");
+const { Nip07Provider } = require("nodestr");
 
 // Instantiate the NIP07Provider with a ConfigObject and register its methods on the global object.
 new Nip07Provider({

@@ -4,7 +4,7 @@
     "description": "A nip07 provider and polyfill for node js",
     "repository": {
         "type": "git",
-        "url": "https://github.com/lightning-digital-entertainment/nip07-node"
+        "url": "https://github.com/lightning-digital-entertainment/nodestr"
     },
     "module": "./lib/esm/index.js",
     "main": "./lib/cjs/index.js",
