@@ -1,4 +1,4 @@
-# nip07-node
+# nodestr
 
 A nip07 provider and polyfill for node js.
 
